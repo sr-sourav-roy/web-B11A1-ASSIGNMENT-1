@@ -140,24 +140,91 @@ nav{
     display: flex;
     gap: 24px;
 }
+.box_title{
+
+}
 .box_title-background-1{
     padding: 32px;
     border-radius: 16px;
     background-color: rgba(84, 144, 245, 0.2);
-    height: 320px;
-    width: 410px;
+    height: 300px;
+    width: 400px;
 }
 .box_title-background-2{
     padding: 32px;
     border-radius: 16px;
     background-color: rgba(198, 228, 214, 1);
-    height: 320px;
-    width: 410px;
+    height: 300px;
+    width: 400px;
 }
 .box_title-background-3{
     padding: 32px;
     border-radius: 16px;
     background-color: rgba(247, 235, 207, 1);
-    height: 320px;
-    width: 410px;
+    height: 300px;
+    width: 400px;
+}
+.card-icon-future{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.digital-trasformation{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+.future-des{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.green-des{
+    margin-bottom: 48px;
+}
+.btn-1{
+    color: rgba(255, 255, 255, 1);
+    font-size: 16px;
+    padding: 10px 18px;
+    border-radius: 6px;
+    background-color: rgba(84, 144, 245, 1);
+    border: 0;
+}
+.btn-2{
+    color: rgba(255, 255, 255, 1);
+    font-size: 16px;
+    padding: 10px 18px;
+    border-radius: 6px;
+    background-color:rgba(9, 161, 92, 1);
+    border: 0;
+}
+.btn-3{
+    color: rgba(255, 255, 255, 1);
+    font-size: 16px;
+    padding: 10px 18px;
+    border-radius: 6px;
+    background-color:rgba(255, 194, 57, 1);
+    border: 0;
+}
+.Yunus{
+    margin-top: 32px;
+    padding: 48px 24px;
+    background-image: url("../assets/quote-bg.png");
+    background-repeat: no-repeat;
+    background-position: 24px 25px;
+    border-radius: 16px;
+    box-shadow: 0px 20px 50px 0px rgba(14, 14, 14, 0.15);
+}
+.Yuns-des{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 12px;
+}
+.dr.yunus{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 5px;
 }
