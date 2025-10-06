@@ -350,3 +350,66 @@ thead tr th{
     border-radius: 8px;
     background-color: rgba(0, 106, 80, 1);
 }
+
+/* section_5 donate from ❤️❤️*/
+.donate{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.donate-today{
+    color: rgba(14, 14, 14, 1);
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+.donate-description{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.donate_from{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.donate_taka{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-bottom: 32px;
+}
+.taka{
+    border: 2px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    padding: 30px 35px;
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 40px;
+    font-weight: bold;
+}
+.plus_color{
+    background-color: rgba(198, 228, 214, 1);
+}
+.other_amount{
+    padding: 18px 380px;
+    color: rgba(14, 14, 14, 0.3);
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    border-color: rgba(14, 14, 14, 0.15);
+    box-shadow: 0px 20px 50px 0px rgb(240, 239, 239);
+    margin-bottom: 32px;
+}
+.done-btn{
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 17px 34px;
+    border: 0px;
+    border-radius: 8px;
+    background-color: rgba(0, 106, 80, 1);
+
+}
