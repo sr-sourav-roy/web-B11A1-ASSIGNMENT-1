@@ -273,3 +273,80 @@ thead tr th{
     border-radius: 6px;
     border-color: rgba(14, 14, 14, 1);
 }
+/* section_4 recent-news ❤️❤️ */
+.recent_news{
+    color: rgba(14, 14, 14, 1);
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.news_description{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+.Satellite{
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    border-radius: 24px;
+    box-shadow: 0px 20px 50px 0px rgb(223, 222, 222);
+    padding: 48px 48px;
+    margin-bottom: 24px;
+}
+.sub-sate-again{
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    border-radius: 24px;
+    box-shadow: 20px 25px 50px 20px rgb(226, 226, 226);
+    padding: 48px 48px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.sub-sate-again-2{
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    border-radius: 24px;
+   box-shadow: 0px 0px 100px 50px rgb(224, 222, 222);
+    padding: 48px 48px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.img-satelite{
+    border-radius: 24px;
+}
+.head_line_sstellite{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+.img_al_jazee{
+    height: 40px;
+    
+}
+.date_time{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.description_satelite{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+.btn_satelite{
+    padding: 13px 26px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    font-weight: 600;
+    border: 0px;
+    border-radius: 8px;
+    background-color: rgba(0, 106, 80, 1);
+}
